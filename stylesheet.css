@@ -1,0 +1,80 @@
+body {
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+a:link {
+	text-decoration: none;
+	color: blue;
+}
+
+a:visited {
+	color: gray;
+}
+
+a:hover {
+	color: orange;
+}
+
+.header {
+	border-radius: 5px;
+	text-align: center;
+	background-color: #F38630;
+	height: 225px;
+	padding-top: 1px;
+	margin: 0px 2px 5px 2px;
+	font-family: Futura;
+}
+
+#pic {
+	height: 125px;
+	width: 125px;
+	border-radius: 100px;
+	margin-left: 30%;
+	float: left;
+}
+
+#address {
+	list-style-type: none;
+}
+
+.social {
+	display: inline;
+}
+
+.contact {
+	float: right;
+}
+
+#main {
+	border-radius: 5px;
+	background-color: #cccccc;
+	padding: 10px;
+	margin: 2px 2px 5px 2px;
+}
+
+#summary {
+	clear: both;
+}
+
+#education {
+	border-radius: 5px;
+	background-color: #33ccff;
+	padding: 10px;
+	margin: 2px 2px 5px 2px;
+}
+
+#interests {
+	border-radius: 5px;
+	background-color: #cccc00;
+	padding: 10px;
+	margin: 2px;
+}
+
+.job-description {
+	font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
+	font-style: oblique;
+}
+
+.school {
+	font-style: oblique;
+}
